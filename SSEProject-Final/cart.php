@@ -1,4 +1,7 @@
 <?php
+//
+//
+//
 	// the shopping cart needs sessions, to start one
 	/*
 		Array of session(
